@@ -21,6 +21,7 @@ app.get('/', function(req, res) {
         <title>test</title>\
         </head>\
         <body>\
+        <h3>dummy login page</h3>\
         <a href="./auth">Login</a>\
         </body>\
     ');
